@@ -29,4 +29,4 @@ if __name__ == "__main__":
 
     print(sort_list_imperative(num))
 
-    print(sort_list_declarative(num))
+    # print(sort_list_declarative(num))
